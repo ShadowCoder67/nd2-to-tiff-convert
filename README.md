@@ -32,12 +32,6 @@ Before running the script, make sure you have the following prerequisites instal
 
 The script will convert all the ND2 files in the input folder to TIFF format and save them in the output folder.
 
-## Troubleshooting
-
-- If you encounter any errors related to Java heap space, you can increase the Java heap space allocated to the JVM. Modify the `command` variable in the `convert_to_tiff` function to include the `-Xmx` option with a larger value. For example:
-
-
-The script will convert all the ND2 files in the input folder to TIFF format and save them in the output folder.
 
 ## Troubleshooting
 
